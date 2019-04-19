@@ -1,0 +1,47 @@
+.logo{
+    width: 10%;
+}
+.banner{
+    background-image: url('../images/clock1.jpg');
+    height: 600px;
+    width: auto;
+}
+.h1{
+    text-align: center;
+}
+.intro {
+    background-color: black;
+    border-top: 0px;
+}
+.lorem{
+    color: aliceblue;
+}
+.intro1{
+    text-align: center;
+}
+.careimg{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.footer{
+    background-color: #444;
+    color: #f8f2f2;
+}
+dl {
+    display: block;
+}
+a{
+    color: #f8f2f2;
+}
+.bd{
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+.footer-dh{
+    margin-left: 120px;
+    margin-right: 20px;
+}
+.padd{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
